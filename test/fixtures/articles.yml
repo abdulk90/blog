@@ -2,10 +2,8 @@
 
 one:
   title: MyString
-  date: 2016-05-21 23:11:27
-  content: MyText
+  text: MyText
 
 two:
   title: MyString
-  date: 2016-05-21 23:11:27
-  content: MyText
+  text: MyText
