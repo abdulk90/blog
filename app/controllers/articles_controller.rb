@@ -35,7 +35,7 @@ end
 
 def update
 
-	@article = Aritcle.fiund(params[:id])
+	@article = Article.find(params[:id])
 
 	if @article.update(article_params)
 		redirect_to @article
