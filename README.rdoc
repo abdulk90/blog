@@ -1,1 +1,3 @@
-personal blog
+Personal Blog
+
+The purpose of this repository is to create a Rails Application that runs a blog.  Through the blog, I will not only create posts about my experiences as new developer, but also change the format of the website.
